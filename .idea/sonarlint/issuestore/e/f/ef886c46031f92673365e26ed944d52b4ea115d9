@@ -1,0 +1,14 @@
+
+i
+java:S20956"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ï¬™õ8µêùÅ¿1
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ï¬™õ8µêùÅ¿1
+h
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(áÀõq8µêùÅ¿1
+M
+java:S1874"+Remove this use of "URL"; it is deprecated.(ÎÉË’ùÿÿÿÿ8‘ÄöÅ¿1
+\	java:S899-";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8•ÄöÅ¿1
+p
+java:S4042-"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8•ÄöÅ¿1
+M
+java:S18745"+Remove this use of "URL"; it is deprecated.(ÎÉË’ùÿÿÿÿ8ŸÄöÅ¿1
